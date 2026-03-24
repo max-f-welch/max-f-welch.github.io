@@ -14,9 +14,9 @@ title: About
 
     <div class="about-links">
       <a href="{{ '/cv' | relative_url }}">CV</a>
-      <a href="mailto:your-email@ucdavis.edu">Email</a>
+      <a href="mailto:mwelch@ucdavis.edu">Email</a>
       <a href="https://scholar.google.com/citations?user=YOURID" target="_blank">Google Scholar</a>
-      <!-- <a href="https://bsky.app/profile/yourhandle" target="_blank">Bluesky</a> -->
+      <a href="https://bsky.app/profile/maxwelch-pls.bsky.social" target="_blank">Bluesky</a>
     </div>
 
     <p>
