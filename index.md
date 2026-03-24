@@ -5,7 +5,7 @@ title: About
 
 <div class="about-wrapper">
   <div class="about-photo">
-    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Max [LastName]">
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Max Welch">
   </div>
 
   <div class="about-text">
