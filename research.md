@@ -6,7 +6,7 @@ title: Research
 <h1 class="page-title">Research</h1>
 
 ## Publications
-
+<!--
 <div class="pub-entry">
   <span class="pub-title">"Title of Published Paper"</span><br>
   <span class="pub-authors">Max [LastName] (or with Co-Author Name)</span><br>
@@ -16,7 +16,7 @@ title: Research
     <a href="#">Replication</a>
   </div>
 </div>
-
+ -->
 <!-- Copy and paste the block above for each publication -->
 
 
