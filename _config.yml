@@ -1,0 +1,27 @@
+title: Max [LastName]
+description: PhD Candidate in Political Science, UC Davis
+url: "" # will be https://yourusername.github.io once deployed
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Navigation links (order matters)
+navigation:
+  - title: About
+    url: /
+  - title: Research
+    url: /research
+  - title: Teaching
+    url: /teaching
+  - title: CV
+    url: /cv
+  - title: Contact
+    url: /contact
