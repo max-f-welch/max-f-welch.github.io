@@ -25,7 +25,7 @@ title: Research
 <div class="pub-entry">
   <span class="pub-title">"The Programmatic Constraints of Party Ties to Civil Society"</span><br>
   <span class="pub-authors">Max Welch</span><br>
-  <span class="pub-venue">Under review.</span>
+  <span class="pub-venue">Revise and Resubmit at the European Journal of Political Research.</span>
   <div class="pub-links">
     <!-- <a href="#">Draft</a> -->
   </div>
@@ -44,6 +44,5 @@ title: Research
 
 
 ## Works in Progress
-- Gender Presentation and Ideological Perception in American Congressional Elections (with Amanda Loehrke and Christopher Hare)
 - Populist Accommodation as a Collective Action Problem (with Nicolas Bichay)
 - International and Domestic Political Influence in the World Health Assembly (with Lauren Peritz, Xiao Hui Tai, Katheryn Russ,  Carl Stahmer, and Nick Ulle)
