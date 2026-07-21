@@ -7,10 +7,10 @@ title: Contact
 
 <div class="contact-info">
 
-<p><strong>Email:</strong> <a href="mailto:your-email@ucdavis.edu">your-email@ucdavis.edu</a></p>
+<p><strong>Email:</strong> <a href="mailto:your-email@ucdavis.edu">mwelch@ucdavis.edu</a></p>
 
 <p><strong>Office:</strong><br>
-  [Room Number], [Building Name]<br>
+  Kerr 662 <br>
   Department of Political Science<br>
   University of California, Davis<br>
   One Shields Avenue<br>
