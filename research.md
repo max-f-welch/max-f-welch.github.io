@@ -32,7 +32,8 @@ title: Research
 </div>
 
 <div class="pub-entry">
-  <span class="pub-title">"Leading from the Backbench"</span><br>
+  <span class="pub-title">"Leading from the Backbench: How MP Candidates’ Current Policy Preferences Predict Parties’ Future
+Policy Shifts"</span><br>
   <span class="pub-authors">Max Welch and James Adams</span><br>
   <!-- <span class="pub-venue">Under review.</span> -->
   <div class="pub-links">
@@ -45,4 +46,4 @@ title: Research
 
 ## Works in Progress
 - Populist Accommodation as a Collective Action Problem (with Nicolas Bichay)
-- International and Domestic Political Influence in the World Health Assembly (with Lauren Peritz, Xiao Hui Tai, Katheryn Russ,  Carl Stahmer, and Nick Ulle)
+- International and Domestic Political Influence in the World Health Assembly (with Lauren Peritz, Xiao Hui Tai, Katheryn Russ, Carl Stahmer, and Nick Ulle)
