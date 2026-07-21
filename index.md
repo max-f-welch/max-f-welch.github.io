@@ -29,7 +29,7 @@ title: About
       the dilemmas of multiparty competition or campaign finance laws, and how these
       aspects affect representation. I also have current ongoing work involving
       representation in the World Health Assembly and US house elections. The latest
-      copy of my CV can be found <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" target="_blank">here</a>,
+      copy of my CV can be found <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" target="_blank">here</a>.
     </p>
     
     <div class="info-section">
